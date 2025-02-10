@@ -1,7 +1,7 @@
 # K&R C (2nd Edition) - First Reading Notes
 
 ## Introduction
-This repository documents my first reading of **"The C Programming Language (Second Edition)"** by Brian W. Kernighan and Dennis M. Ritchie. The book is a classic in programming literature, introducing the C language concisely and effectively. My goal is to gain a deeper understanding of C programming and its fundamental concepts through structured reading and exercises. I will also be taking notes on paper, so this repository is just for the book excercises. 
+This repository documents my first reading of **"The C Programming Language"** by Brian W. Kernighan and Dennis M. Ritchie. The book is a classic in programming literature, introducing the C language concisely and effectively. My goal is to gain a deeper understanding of C programming and its fundamental concepts through structured reading and exercises. I will also be taking notes on paper, so this repository is just for the book excercises. 
 
 ## Goals
 - **Understand** the core syntax and semantics of the C language.

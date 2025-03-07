@@ -1,7 +1,7 @@
-/**~~~~~~~~~~~~~errorhandler.c~~~~~~~~~~~~~~~~
+/************** errorhandler.c ***************
  * Checks that parenthesis, quotes, and braces 
  * are closed and balanced.
- *~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ *********************************************
  */
 
 #include <stdio.h>

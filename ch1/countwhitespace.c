@@ -1,6 +1,6 @@
-/**~~~~countwhitespace.c~~~~~~
+/***** countwhitespace.c *****
  * Counts whitespace in input.
- *~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ *****************************
  */
 
 #include <stdio.h>

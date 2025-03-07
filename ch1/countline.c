@@ -1,6 +1,6 @@
-/**~~~~~countline.c~~~~~~
+/****** countline.c *****
  * Counts lines in input.
- *~~~~~~~~~~~~~~~~~~~~~~~
+ ************************
  */
 
 #include <stdio.h>

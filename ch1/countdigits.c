@@ -1,6 +1,6 @@
-/**~~~~~countdigits.c~~~~~
+/****** countdigits.c ****
  * Counts digits in input.
- *~~~~~~~~~~~~~~~~~~~~~~~~
+ *************************
  */
 
 #include <stdio.h>

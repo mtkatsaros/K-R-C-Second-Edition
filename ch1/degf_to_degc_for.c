@@ -1,7 +1,7 @@
-/**~~~~~~~~~~~~~~~degf_to_degc_for.c~~~~~~~~~~~~~~~~~~~
+/**************** degf_to_degc_for.c ******************
  * This program shows a list of fahrenheit temperatures
  * converted to celsius. This time with a for loop.
- *~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ ******************************************************
  */
 #include <stdio.h>
 

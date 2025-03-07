@@ -1,7 +1,7 @@
-/**~~~~~~~~~~~~~~escape.c~~~~~~~~~~~~~~~~
+/************** escape.c ****************
  * Converts escape sequences to character 
  * representations and vice versa.
- *~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ ****************************************
  */
 
  #include <stdio.h>

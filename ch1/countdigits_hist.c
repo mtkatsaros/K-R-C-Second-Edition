@@ -1,7 +1,7 @@
-/**~~~~~~~~countdigits_hist.c~~~~~~~~~
+/********* countdigits_hist.c ********
  * Counts digits in input and displays 
  * a histogram for digit results.
- *~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ *************************************
  */
 
 #include <stdio.h>

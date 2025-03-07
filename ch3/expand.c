@@ -1,7 +1,7 @@
-/**~~~~~~~~~~~~~~~expand.c~~~~~~~~~~~~~~~~
+/**************** expand.c ***************
  * Expands string statements such as "a-z"
  * To their full form "abcdefg..."
- *~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ *****************************************
  */
 
  #include <stdio.h>

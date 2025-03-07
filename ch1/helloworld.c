@@ -1,6 +1,6 @@
-/**~~~~~~~~helloworld.c~~~~~~~~~
+/********* helloworld.c ********
  * Need I say more? I think not.
- *~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ *******************************
  */
  
 #include <stdio.h>

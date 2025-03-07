@@ -1,6 +1,6 @@
-/**~~~~~~~countchar.c~~~~~~~~~
+/******** countchar.c ********
  * Counts characters in input.
- *~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ *****************************
  */
 #include <stdio.h>
 

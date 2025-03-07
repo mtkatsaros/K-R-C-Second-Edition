@@ -1,7 +1,7 @@
-/**~~~~~~~~~~~~~~~~~~any.c~~~~~~~~~~~~~~~~~~~~~~~
+/****************** any.c *********************
  * Retrieves the first index of a string where 
  * any character from the second string occurs.
- *~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ **********************************************
  */
 
  #include <stdio.h>

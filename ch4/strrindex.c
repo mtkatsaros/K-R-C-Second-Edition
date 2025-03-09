@@ -6,7 +6,7 @@
  #include <stdio.h>
  #define BUFF 1000
 
- void writestring(char s[]);
+ void readstring(char s[]);
 
  /**
   * Flow of logic: loop thought each value of the string. Save any indexes that have
@@ -31,7 +31,7 @@
     t = getchar();
 
     printf("\nEnter phrase (%d characters or less):\n", BUFF);
-    writestring(s);
+    readstring(s);
 
     printf("\nIndex of char %c in string: %d\n", t, strrindex(s, t));
 
@@ -39,7 +39,7 @@
  }
 
  // Helper function to read input data and write to a string
- void writestring(char s[]){
+ void readstring(char s[]){
     char c;
     int i = 0;
     while((c = getchar()) != EOF)

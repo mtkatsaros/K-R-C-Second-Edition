@@ -1,6 +1,6 @@
-/********************* calcmod.c *********************
- * Extends calculator to include modulo functionality.
- *****************************************************
+/*************** calc_no_unget.c ****************
+ * Calculator without the extra character buffer.
+ ************************************************
  */
 
 #include <stdio.h>
@@ -16,12 +16,9 @@
 int sp = 0;
 double val[MAXVAL];
 
-
 int getop(char []);
 void push(double);
 double pop(void);
-
-
 
 // Reverse Polish calculator
 int main(){
